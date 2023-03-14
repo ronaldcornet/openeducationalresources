@@ -10,8 +10,9 @@ Watch it [here](https://liascript.github.io/course/?https://raw.githubuserconten
 This sounds like a horse
 ?[a horse](https://www.w3schools.com/html/horse.mp3 "hear a horse")<!--
 autoplay="true"
-muted="false"
+muted="true"
 -->
+
 
 ``` markdown
 <script run-once>
