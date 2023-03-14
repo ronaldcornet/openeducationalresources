@@ -13,8 +13,10 @@ autoplay="true"
 muted="true"
 -->
 
+## Testing a script
 
-``` markdown
+Doesn't work yet...
+
 <script run-once>
 setTimeout(function(){
   send.lia("I am ready!")
@@ -22,4 +24,3 @@ setTimeout(function(){
 
 "waiting for 5 seconds"
 </script>
-```
