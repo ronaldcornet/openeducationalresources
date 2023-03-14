@@ -12,3 +12,11 @@ This sounds like a horse
 autoplay="true"
 muted="false"
 -->
+
+<script run-once>
+setTimeout(function(){
+  send.lia("I am ready!")
+}, 5000)
+
+"waiting for 5 seconds"
+</script>
