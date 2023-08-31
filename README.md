@@ -44,4 +44,5 @@ send.wait() // or "LIA: wait"
 
 ## An SVG, even animated!
 ![Example](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/anim3.svg)
-![Open Educational Resources logo](https://en.wikipedia.org/wiki/Open_educational_resources#/media/File:Global_Open_Educational_Resources_Logo.svg)
+
+![Open Educational Resources logo](https://upload.wikimedia.org/wikipedia/commons/2/20/Global_Open_Educational_Resources_Logo.svg)
