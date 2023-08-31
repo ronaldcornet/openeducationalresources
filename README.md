@@ -41,3 +41,7 @@ counter(6)
 
 send.wait() // or "LIA: wait"
 </script>
+
+## An SVG, even animated!
+![Example](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/anim3.svg)
+![Open Educational Resources logo](https://en.wikipedia.org/wiki/Open_educational_resources#/media/File:Global_Open_Educational_Resources_Logo.svg)
