@@ -15,7 +15,9 @@ muted="true"
 
 ## Testing a script
 
-Does work, but some caching issues ... - e
+Does work, but some caching issues ... - a
+
+See [LiaScript ](https://github.com/LiaScript/docs/blob/master/README.md)
 
 <script run-once>
 setTimeout(function(){
