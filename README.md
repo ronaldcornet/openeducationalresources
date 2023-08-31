@@ -21,7 +21,7 @@ Doesn't work yet...
 function countDown(secs) {
    setTimeout(function(){
      send.lia("I am ready!")
-   }, secs*000)
+   }, secs*1000)
 }
 
 countDown(5)
