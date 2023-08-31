@@ -15,7 +15,8 @@ muted="true"
 
 ## Testing a script
 
-Doesn't work yet... - b
+Doesn't work yet... - c
+
 <script run-once>
 setTimeout(function(){
   send.lia("I am ready!")
@@ -24,10 +25,12 @@ setTimeout(function(){
 "waiting for 3 seconds"
 </script>
 
+
 <script run-once>
-   setTimeout(function(){
-     send.lia("I am ready!")
-   }, 5000)
+function abc(){
+  send.lia("I am ready!")
+}
+setTimeout(abc(), 5000)
 
 "waiting for 5 seconds"
 </script>
