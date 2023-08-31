@@ -15,7 +15,7 @@ muted="true"
 
 ## Testing a script
 
-Does work, but some caching issues ... - c
+Does work, but some caching issues ... - e
 
 <script run-once>
 setTimeout(function(){
@@ -25,12 +25,17 @@ setTimeout(function(){
 "waiting for 3 seconds"
 </script>
 
-
 <script run-once>
-function abc(){
-  send.lia("I am ready!")
+function counter(i) {
+  if (i > 0) {
+    send.output("HTML: <h"+i+" style='display: inline-block'>hallo " + i +"</h"+i+">")
+    setTimeout(() => counter(i-1), 1000)
+  } else {
+    send.stop()
+  }
 }
-setTimeout(abc(), 5000)
 
-"waiting for 5 seconds"
+counter(6)
+
+send.wait() // or "LIA: wait"
 </script>
