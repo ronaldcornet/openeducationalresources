@@ -21,9 +21,9 @@ Doesn't work yet...
 function countDown(secs) {
    setTimeout(function(){
      send.lia("I am ready!")
-   }, secs*1000)
+   }, secs)
 }
 
-countDown(5)
+countDown(5000)
 "waiting for 5 seconds"
 </script>
