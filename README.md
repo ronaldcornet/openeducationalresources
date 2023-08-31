@@ -15,7 +15,7 @@ muted="true"
 
 ## Testing a script
 
-Doesn't work yet... - c
+Does work, but some cashing issues ... - c
 
 <script run-once>
 setTimeout(function(){
