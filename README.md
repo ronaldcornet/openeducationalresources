@@ -18,12 +18,10 @@ muted="true"
 Doesn't work yet...
 
 <script run-once>
-function countDown(secs) {
    setTimeout(function(){
      send.lia("I am ready!")
    }, secs)
-}
 
-countDown(5000)
+setTimeout(5000)
 "waiting for 5 seconds"
 </script>
