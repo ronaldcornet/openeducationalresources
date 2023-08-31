@@ -15,13 +15,19 @@ muted="true"
 
 ## Testing a script
 
-Doesn't work yet... - a
+Doesn't work yet... - b
+<script run-once>
+setTimeout(function(){
+  send.lia("I am ready!")
+}, 3000)
+
+"waiting for 3 seconds"
+</script>
 
 <script run-once>
    setTimeout(function(){
      send.lia("I am ready!")
    }, 5000)
 
-setTimeout()
 "waiting for 5 seconds"
 </script>
