@@ -1,3 +1,5 @@
-Links related to FAIR / open educational resources
-Resources
-Initiatives
+# Links related to FAIR / open educational resources
+
+## Resources
+
+## Initiatives
