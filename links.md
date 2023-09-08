@@ -2,4 +2,9 @@
 
 ## Resources
 
+OERCommons
+OpenPLATO
+FORRT
+EDUsources
+
 ## Initiatives
