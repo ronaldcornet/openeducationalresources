@@ -3,7 +3,7 @@ Open Educational Resources
 
 This is a [LiaScript](https://github.com/LiaScript/) document.
 
-Watch it <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/ronaldcornet/openeducationalresources/main/README.md" target="_blank">here</a>
+Watch it <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/ronaldcornet/openeducationalresources/main/README.md" target="_blank">rendered</a> or <a href="https://raw.githubusercontent.com/ronaldcornet/openeducationalresources/main/README.md" target="_blank">raw</a>.
 
 ## Audio autoplay example, instead of voice over PowerPoint
 
