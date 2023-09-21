@@ -10,6 +10,7 @@
 * [FAIR Data Point](https://home.fairdatapoint.org/): a proposed standard and an example implementation
 * [ELIXIR Training Lesson Template](https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-Converge)
 * [ELIXIR FAIR Lesson Plans](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Converge/)
+* [BioSchemas TrainingMaterial profile](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE)
 
 ## Initiatives
 * [Research Software Training NL](https://researchsoftwaretraining.nl/): a network bringing together and facilitating training organizations in the Netherlands in the areas of research software, programming skills, applied data science, computational skills and open source
